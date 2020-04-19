@@ -22,6 +22,6 @@ public class rejimboga {
             } else if (a + b > c || b + c > a || a + c > b) {
                 System.out.println("Трикутник існує");
             }
-        } System.out.println("Error");
+        }else System.out.println("Error");
     }
 }
